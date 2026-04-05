@@ -36,4 +36,5 @@ Top N Analysis: Bar charts identifying the top-performing states by revenue.
 Download the .pbix file from this repository.
 Open the file using Power BI Desktop.
 Use the Slicers on the top right to filter by date range or customer segment to see how the metrics shift.
-<img width="1305" height="731" alt="final" src="https://github.com/user-attachments/assets/e8ebab97-71c5-4b5b-8728-91a8651d7c31" />
+<img width="1312" height="737" alt="Done" src="https://github.com/user-attachments/assets/10daf1f7-fed3-4016-bc16-812fe0332f78" />
+
